@@ -49,7 +49,7 @@ const Index = () => {
         <div className="container mx-auto px-4 text-center">
           <div className="max-w-4xl mx-auto">
             <h1 className="text-5xl md:text-6xl font-bold mb-6 animate-fade-in">
-              Emergency Plumbing Servicesfsdgsfgsgfgsfgfd
+              Emergency Plumbing Services
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-blue-100">
               Available 24/7 • Licensed Professionals • Same Day Service
